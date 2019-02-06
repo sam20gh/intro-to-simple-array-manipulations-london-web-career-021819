@@ -43,5 +43,5 @@ def using_delete
 end
 
 
-def using_shift
+def using_delete_at
 end
