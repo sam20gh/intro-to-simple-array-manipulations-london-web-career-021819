@@ -1,7 +1,5 @@
 def using_push(array, string)
-  countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
-  next_country = "Niger"
-  countries_in_western_africa.push(next_country)
+  array.push(string)
 end
 
 
@@ -11,9 +9,7 @@ end
 
 
 def using_pop(array)
-  
-  great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
-  great_hits_of_the_nineties.pop
+  array.pop
 end
 
 def pop_with_args(array, string)
