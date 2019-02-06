@@ -18,7 +18,7 @@ end
 def using_shift
 end
 
-def using_shift
+def shift_with_args
 end
 
 
