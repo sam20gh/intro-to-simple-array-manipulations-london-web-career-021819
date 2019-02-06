@@ -5,28 +5,30 @@ def using_push(array, string)
 end
 
 
-def using_unshift
+def using_unshift(array, string)
+   neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
+    @new_neighborhood = "Brooklyn Heights"
 end
 
 
-def using_pop
+def using_pop(array, string)
 end
 
-def pop_with_args
+def pop_with_args(array, string)
 end
 
-def using_shift
+def using_shift(array, string)
 end
 
-def shift_with_args
-end
-
-
-def using_concat
+def shift_with_args(array, string)
 end
 
 
-def using_insert
+def using_concat(array, string)
+end
+
+
+def using_insert(array, string)
 end
 
 
