@@ -7,7 +7,8 @@ end
 
 def using_unshift(array, string)
    neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
-    @new_neighborhood = "Brooklyn Heights"
+    new_neighborhood = "Brooklyn Heights"
+    neighborhoods_in_northwest_brooklyn.unshift(new_neighborhood)
 end
 
 
@@ -32,18 +33,18 @@ def using_insert(array, string)
 end
 
 
-def using_uniq
+def using_uniq(array, string)
 end
 
 
 
-def using_flatten
+def using_flatten(array, string)
 end
 
 
-def using_delete
+def using_delete(array, string)
 end
 
 
-def using_delete_at
+def using_delete_at(array, string)
 end
