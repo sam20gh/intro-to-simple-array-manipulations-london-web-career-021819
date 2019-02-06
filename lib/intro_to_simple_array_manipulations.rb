@@ -22,7 +22,7 @@ def shift_with_args
 end
 
 
-def using_shift
+def using_concat
 end
 
 
