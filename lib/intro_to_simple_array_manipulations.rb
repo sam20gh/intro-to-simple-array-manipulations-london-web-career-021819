@@ -12,5 +12,5 @@ end
 def using_pop
 end
 
-def using_pop
+def pop_with_args
 end
