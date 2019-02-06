@@ -30,7 +30,7 @@ def using_insert
 end
 
 
-def using_shift
+def using_uniq
 end
 
 
