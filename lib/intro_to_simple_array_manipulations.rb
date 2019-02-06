@@ -39,7 +39,7 @@ def using_flatten
 end
 
 
-def using_shift
+def using_delete
 end
 
 
