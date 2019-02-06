@@ -30,11 +30,13 @@ def using_concat(array, second_array)
 end
 
 
-def using_insert(array, string)
+def using_insert(array, element)
+  array.insert(4, elemnt)
 end
 
 
-def using_uniq(array, string)
+def using_uniq(array)
+  array.uniq
 end
 
 
