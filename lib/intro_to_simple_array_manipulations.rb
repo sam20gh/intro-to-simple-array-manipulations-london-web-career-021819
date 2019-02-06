@@ -17,3 +17,31 @@ end
 
 def using_shift
 end
+
+def using_shift
+end
+
+
+def using_shift
+end
+
+
+def using_shift
+end
+
+
+def using_shift
+end
+
+
+
+def using_shift
+end
+
+
+def using_shift
+end
+
+
+def using_shift
+end
