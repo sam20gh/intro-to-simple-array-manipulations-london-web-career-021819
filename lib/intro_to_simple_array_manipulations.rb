@@ -35,7 +35,7 @@ end
 
 
 
-def using_shift
+def using_flatten
 end
 
 
