@@ -15,5 +15,5 @@ end
 def pop_with_args
 end
 
-def pop_with_args
+def using_shift
 end
