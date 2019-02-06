@@ -26,7 +26,7 @@ def using_concat
 end
 
 
-def using_shift
+def using_insert
 end
 
 
